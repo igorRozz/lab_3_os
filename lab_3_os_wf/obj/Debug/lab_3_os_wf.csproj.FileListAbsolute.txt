@@ -1,0 +1,4 @@
+C:\Users\rozum\source\repos\lab_3_os_wf\lab_3_os_wf\obj\Debug\lab_3_os_wf.csprojAssemblyReference.cache
+C:\Users\rozum\source\repos\lab_3_os_wf\lab_3_os_wf\obj\Debug\lab_3_os_wf.Properties.Resources.resources
+C:\Users\rozum\source\repos\lab_3_os_wf\lab_3_os_wf\obj\Debug\lab_3_os_wf.csproj.GenerateResource.cache
+C:\Users\rozum\source\repos\lab_3_os_wf\lab_3_os_wf\obj\Debug\lab_3_os_wf.csproj.CoreCompileInputs.cache
